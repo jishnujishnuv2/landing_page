@@ -1,0 +1,67 @@
+body{
+    background-image: url('Ready-Player-One-realidad virtual aplicada.jpg');
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1,h2,p{
+    text-align: center;
+}
+.menu
+{
+    width: 50%;
+background-color: darkblue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+}
+h1{
+    font-size: 150px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: red;
+}
+h2{
+    font-size: 75px;
+
+}
+.established{
+        font-style: italics;
+    }
+.item p
+        {
+display: inline-block ;
+margin-top: 10px;
+margin-bottom: 10px;
+font-size: 40px;
+color: red;
+
+        }
+   .NAME, .COURS, .FEE 
+   {
+    text-align: left;
+    width: 100%;
+    color: red;
+   }
+   img{
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+   }
+   .MOVIE p{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    color: white;
+   }
+   .YEAR
+   {
+    text-align: right;
+    width: 90%;
+   }
+   hr{
+    background-color: black;
+    height: 2px;
+    border-color: red;
+   }
